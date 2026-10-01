@@ -1,0 +1,3 @@
+Este projeto teve como objetivo a implementação de uma esteira completa de DevOps, contemplando a containerização de uma API em Node.js com banco de dados PostgreSQL, a automação de testes e build via GitHub Actions e o deploy contínuo na plataforma Render.
+
+Durante todo o ciclo de desenvolvimento, a Inteligência Artificial atuou como uma ferramenta indispensável de suporte técnico. Ela auxiliou na estruturação inicial dos arquivos de configuração, na geração do script de workflow para o GitHub Actions e na orientação dos passos necessários para a integração do Deploy Hook com o ambiente de nuvem. O uso da IA otimizou significativamente o tempo de pesquisa e permitiu focar na arquitetura e no fluxo de trabalho.
